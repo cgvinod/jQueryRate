@@ -1,0 +1,4 @@
+jQueryRate
+==========
+
+jQuery rating system
